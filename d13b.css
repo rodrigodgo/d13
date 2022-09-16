@@ -1,0 +1,23 @@
+*{
+
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+table {
+    width: 500px;
+    height: 500px;
+    border-collapse: collapse;
+    font-size: 50px;
+    background-color: rgb(208, 252, 208);
+    color: green;
+}
+
+td {
+    border: 5px solid purple;
+    padding: 10px;
+    text-align: center;
+    
+}
