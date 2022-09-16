@@ -1,0 +1,29 @@
+*{
+
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    font-size: 75px;
+}
+
+table{
+    width: 500px;
+    height: 500px;
+    font-size: 50px;
+    border-collapse: collapse;
+    color: red;
+    background-color: rgb(190, 236, 190);
+}
+
+td{
+    border: 4px solid blue;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+
